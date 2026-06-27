@@ -26,8 +26,6 @@
 
 ## 📸 Application Interface
 
-> **Note to Admin:** Replace the placeholder links below with the actual paths to your screenshots once you upload them to this repository!
-
 ### The Reader View
 ![Manga Reader View](https://github.com/BART877/Emire_Releases/blob/dc6cc53bd0a1f838c6598acaa36070c7b388a7b9/Reader.png)
 *Experience manga in ultra-high definition with customizable reading directions and hardware acceleration.*
@@ -38,7 +36,7 @@
 
 ### Dashboard & Profile
 ![Dashboard View](https://github.com/BART877/Emire_Releases/blob/dc6cc53bd0a1f838c6598acaa36070c7b388a7b9/Dashboard.png)
-*Manage your subscription, reading history, and cloud-synced preferences seamlessly.*
+*Manage your subscription etc.*
 
 ---
 
