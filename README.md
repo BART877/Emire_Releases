@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://via.placeholder.com/150?text=Emire+Logo](https://github.com/BART877/Emire_Releases/blob/8a3d49f5efd2a7a6781f60de4ebd0588c7aa526f/AppLogo.png)" alt="Emire Logo" width="150" />
+  <img src="https://github.com/BART877/Emire_Releases/blob/8a3d49f5efd2a7a6781f60de4ebd0588c7aa526f/AppLogo.png" alt="Emire Logo" width="150" />
   <h1>Emire Manga Reader & Editor</h1>
   <p><strong>A premium, high-performance desktop application for reading, translating, and editing manga.</strong></p>
   
